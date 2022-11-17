@@ -2,7 +2,7 @@
   Clube Mulher Extraordinária  📊
 </h1>
 
-> ![DSMeta1](https://user-images.githubusercontent.com/101424190/198748607-c17c5b58-3577-4b52-bcba-731e421c974b.jpeg) 
+> ![DSMeta1](https://user-images.githubusercontent.com/101424190/202522315-f6aff54e-c807-4851-91ae-32b9cde7a0d9.jpeg) 
 <br>
 
 ## 📝 Descrição 
@@ -21,7 +21,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - WooComercial
 - DiviBuilder
 
-![DSMeta2](https://user-images.githubusercontent.com/101424190/198748614-b22423e3-1b96-4140-9480-6493182767ff.jpeg)
+![DSMeta2](https://user-images.githubusercontent.com/101424190/202522298-6cd58290-a671-4903-b716-81da3330068a.jpeg)
 
 Bibliotecas
 
@@ -65,5 +65,3 @@ Links
 -----
 
   <h3 align="center"> Developed by <a href="https://www.linkedin.com/in/niloisaac/">Nilo Isaac</a> ☕</h3>
-
-
